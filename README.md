@@ -1,2 +1,0 @@
-# Badapple
-Badapple-in-cmd
